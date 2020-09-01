@@ -961,7 +961,7 @@
 <section class="law">
   <h2> The Law of _ </h2>
   <p>
-  The name <code>_</code> (underscore) can be used to ignore a term in a binding.
+  The name <code>_</code> (underscore) can be used to ignore a term in a binding. It can be used multiple times (<code>_____</code>), and in multiple places.
   </p>
 </section>
 

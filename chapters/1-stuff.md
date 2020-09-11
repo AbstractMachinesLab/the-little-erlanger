@@ -1,3 +1,9 @@
+### The Little Erlanger
+
+---
+
+<br />
+
 # 1\. Stuff
 
 <img width="100%" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fbb%2F93%2Fae%2Fbb93aed890104c1c7ad30ff29aa778a6.jpg&f=1&nofb=1" />
@@ -947,7 +953,7 @@
   </section>
 </section>
 
-<section class="qa">
+<section class="qa before-law">
   <section class="q">
   <p>
   Do I need to always come up with new names to bind terms to? 
@@ -1009,7 +1015,7 @@
   </section>
 </section>
 
-<section class="qa before-law">
+<section class="qa">
   <section class="q">
   <p>
   True or false:
@@ -1025,6 +1031,27 @@
   </section>
 </section>
 
+<section class="qa before-law">
+  <section class="q">
+  <p>
+  True or false:
+  </p>
+  <pre><code>
+    [Head | Tail] = [1]
+    Head = 1
+    Tail = []
+  </code></pre>
+  </section>
+  <section class="a">
+  <p>True, </p>
+  <p>because all lists with elements, have an empty tail.</p>
+  <br />
+  <p>
+    This means that <code>[1 | []] = []</code>.
+  </p>
+  </section>
+</section>
+
 <section class="interlude">
   <h2> Now go get some knäckebröd with mustard. </h2>
   <div>
@@ -1032,3 +1059,11 @@
     <h3>mustardy bread crumbles. </h3>
   </div>
 </section>
+
+---
+<br />
+<p style="text-align: center;">
+  <a href="/"> Back to the Index </a>
+  &mdash;
+  <a href="/chapters/2-oats-oaths-and-otters.html"> Go to Chapter 2 </a>
+</p>

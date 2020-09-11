@@ -1,2 +1,2 @@
 # The Little Erlanger
-> A little book best enjoyed with food.
+> A little book about Erlang, best enjoyed with food.

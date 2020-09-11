@@ -1,2 +1,3 @@
 # The Little Erlanger
-> A little book about Erlang, best enjoyed with food.
+> :open_book: A little book about recursive concurrent programming in Erlang,
+> best enjoyed with food :cake:
